@@ -22,7 +22,7 @@ Welcome to my Power BI Portfolio! This repository contains a collection of profe
 
 ---
 
-### 3. **Product Sales Dashboard**
+### 3. **Product Analytics Dashboard**
 - **Problem**: Sales team needed product-level insights across years and regions.
 - **Solution**: Created a 10-year analysis dashboard with category filters, top performers, and region maps.
 - **Tools Used**: Power BI, Excel.
