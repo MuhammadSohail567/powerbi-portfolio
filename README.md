@@ -43,8 +43,11 @@ Each dashboard is stored in its own folder with the following contents:
 **Muhammad Sohail**  
 Business Intelligence Intern | Power BI | SQL | Python | Excel  
 Karachi, Pakistan 🇵🇰  
-📧 Email: [Add your email]  
-🔗 LinkedIn: [Add your LinkedIn]
+📞 03022347651
+✉️ sohailikram567@gmail.com
+🔗 LinkedIn
+
+
 
 ---
 
